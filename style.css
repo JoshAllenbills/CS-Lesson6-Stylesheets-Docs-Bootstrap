@@ -52,5 +52,13 @@ body {
     margin: 10px auto;
     border: 5px solid #4caf50;
     border-radius: 10px;
+
+    
+resize image
+img{
+  width: 300px; ;
+}
+
+
+
   }
-  
